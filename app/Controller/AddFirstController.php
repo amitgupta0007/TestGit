@@ -11,6 +11,6 @@
  *
  * @author amit
  */
-class AddFirstController {
+class AddFirstController extends AppController{
     //put your code here
 }
